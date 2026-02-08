@@ -1,0 +1,9 @@
+{
+  "name": "animal-friend-chat",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Kid-friendly animal AI chat prototype",
+  "scripts": {
+    "dev": "python -m http.server 8000"
+  }
+}
